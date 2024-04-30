@@ -1,0 +1,8 @@
+[package]
+org = "bastiyan"
+name = "add_new_user"
+version = "0.1.0"
+distribution = "2201.8.6"
+
+[build-options]
+observabilityIncluded = true
